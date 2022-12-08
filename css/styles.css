@@ -69,11 +69,13 @@ hr {
 }
 .computerimage {
     width: 25%;
+    max-width: 200px;
     float: left;
     padding-right: 30px;
 }
 .rangerimage {
     width: 25%;
+    max-width: 200px;
     float: right;
     padding-left: 30px;
 }
